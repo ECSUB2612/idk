@@ -1,0 +1,511 @@
+body {      
+   background-image: url('space.png');
+    background-position: center;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 325vh;
+   } 
+   
+ 
+
+    h1 {
+    color: blue;
+    font-size: 80px;
+    font-family: bold;
+    font-style: arial;
+    text-align: center;
+    }
+    
+    .Games {
+        width:  90px; 
+        height: 30px;
+        border-radius: 42px;
+        cursor: pointer; 
+        border: none;
+        background-color: black;
+        color: white; 
+         float: top; 
+         float: right;
+         margin-top: 0px;
+         margin-bottom: 0px;
+         font-size: 20px;
+    }
+
+    .Games:hover {
+      background-color: rgb(6, 184, 255);
+    }
+
+    
+    .Apps {
+        float: top;
+        float: right;
+        border: none;
+        width: 90px; 
+        height: 30px;
+        border-radius: 36px;
+        cursor: pointer;
+        background-color: black;
+        background-position: center;
+        font-size: 20px;
+        color: white
+    }
+
+    .Apps:hover {
+      background-color: rgb(6, 184, 255);
+    }
+
+    .topnav {
+        overflow: hidden;
+        background-color: black;
+         top: 0px;
+         right: 0px;
+        width: 100vw;
+        height: 4vh;
+      position: absolute;
+     }
+
+     .Spotify{
+        height: 150px;
+        width: 160px;
+        cursor: pointer;
+        background-image: url('spotify.jpeg');
+        background-color: black;
+        background-position: center;
+        border-radius: 15px;
+        border: none;
+        margin: 20px;
+        margin-top: 5vh;
+        margin-left: 5vh;
+        padding-top: 124px;
+        background-size: 180px;
+        background-repeat: no-repeat;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+     }
+
+     .Youtube {
+        background-image: url('youtube.png');
+        height: 150px;
+        width: 160px;
+        background-position: center;
+        cursor: pointer;
+        border-radius: 15px;
+        border: none;
+        margin: 20px;
+        background-color: black;
+        background-size: 310px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+
+     }
+
+     .Github {
+        background-image: url('Github\ \(4\).png');
+        background-color: black;
+        height: 150px; 
+        width: 160px;
+        background-position: center;
+        cursor: pointer;
+        border-radius: 15px; 
+        border: none; 
+        margin: 20px;
+        background-size: 100px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+     }
+
+     .VScode {
+        background-image: url('vscode.png');
+        width: 160px;
+        height: 150px;
+        background-position: center;
+        cursor: pointer;
+        border-radius: 15px;
+        border: none;
+        margin: 20px;
+        background-color: black;
+        background-size: 100px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+
+     }
+
+
+     .eggy-car {
+      background-image: url('eggy\ car\ \(4\).jpeg');
+      height: 150px;
+      width: 160px;
+      background-position: center;
+      border-radius: 15px;
+      border: none;
+      cursor: pointer;
+      margin: 20px;
+      background-size: 110px;
+      background-repeat: no-repeat;
+      margin-top: 5vh;
+      margin-left: 5vh;
+      font-weight: bold;
+      background-color: rgb(19, 17, 17);
+      padding-top: 124px;
+      color: white;
+      font-size: 21px;
+      font-display: flex;
+     }
+
+     .Eaglercraft {
+      background-image: url('Eaglercraft.jpeg');
+      background-color: rgb(19, 17, 17);
+      height: 150px;
+      width: 160px;
+      background-position: center;
+      border-radius: 15px;
+      border: none;
+      cursor: pointer;
+      margin: 20px;
+      background-size: 140px;
+      background-repeat: no-repeat;
+      padding-top: 124px;
+      color: white;
+      font-weight: bold;
+      font-size: 21px;
+     }
+
+     .google {
+      background-image: url('google.png');
+      background-color: black;
+      height: 150px;
+      width: 160px;
+      background-position: center;
+      border-radius: 15px;
+      border: none;
+      cursor: pointer;
+      margin: 20px;
+      background-size: 190px;
+      background-repeat: no-repeat;
+      padding-top: 124px;
+      color: white;
+      font-size: 21px;
+      font-weight: bold;
+     }
+
+     
+
+     .cookie-clicker {
+      background-image: url('cookie\ clicker\ \(1\).jpeg');
+      background-color: rgb(19, 17, 17);
+      height: 150px;
+      width: 160px;
+      background-position: center;
+      border-radius: 15px; 
+      border: none;
+      cursor: pointer;
+      margin: 20px;
+      background-size: 100px;
+      background-repeat: no-repeat;
+      color: white;
+      padding-top: 124px;
+      font-size: 21px;
+      font-weight: bold;
+   }
+   
+      .xbox-cloud-gaming {
+         background-image: url('xbox\ cloud\ gaming.png');
+         height: 150px; 
+         width: 160px;
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         cursor: pointer;
+         margin: 20px;
+         background-color: black;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         color: white;
+         padding-top: 124px;
+         font-weight: bold;
+         font-size: 21px;
+      } 
+
+      .snow-rider {
+         background-image: url('snow-rider.jpeg');
+          background-color: rgb(19, 17, 17);
+         height: 150px;
+         width: 160px;
+         cursor: pointer;
+         margin: 20px;
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         background-size: 150px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .puzzel-game {
+         background-image: url('2048.png');
+         width: 160px;
+         height: 150px;
+         cursor: pointer;
+         margin: 20px;
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         background-color: rgb(19, 17, 17);
+         background-size: 100px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+         }
+      
+      .lol {
+         background-image: url('1v1.lol.png');
+         width: 160px; 
+         height: 150px;
+         cursor: pointer;
+         margin: 20px;
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+      }
+
+      .crossy-road {
+         background-image: url('crossy-road.jpg');
+         width: 160px;
+         height: 150px;
+         cursor: pointer;
+         margin: 20px;
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         background-color: rgb(19, 17, 17);
+         background-size: 150px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white; 
+         font-weight: bold;
+         font-size: 21px;
+      }
+
+      .basketball-stars {
+         background-image: url('basketball\ stars.jpg');
+         width: 180px;
+         height: 150px;
+         cursor: pointer;
+         border-radius: 15px;
+         border: none;
+         margin: 20px;
+         background-position: center;
+         background-size: 96px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .home {
+         width:  90px; 
+         height: 30px;
+         border-radius: 42px;
+         cursor: pointer; 
+         border: none;
+         background-color: black;
+         color: white; 
+          float: top; 
+          float: right;
+          margin-top: 0px;
+          margin-bottom: 0px;
+          font-size: 16px;
+      }
+
+      .home:hover {
+      background-color: rgb(6, 184, 255);
+      }
+      
+      .basket-random {
+         background-image: url('basket\ random.jpg');
+         width: 175px;
+         height: 150px;
+         cursor: pointer;
+         margin: 20px; 
+         background-position: center;
+         border-radius: 15px;
+         border: none;
+         background-size: 100px;
+         background-repeat: no-repeat; 
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .soccer-random {
+         background-image: url('soccer\ random.jpg');
+         width: 175px;
+         height: 150px;
+         background-position: center;
+         border-radius: 15px;         
+         cursor: pointer;
+         margin: 20px;
+         border: none;
+         background-size: 108px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .about-blank {
+         width:  90px; 
+         height: 30px;
+         border-radius: 42px;
+         cursor: pointer; 
+         border: none;
+         background-color: black;
+         color: white; 
+          float: top; 
+          float: left;
+          margin-top: 0px;
+          margin-bottom: 0px;
+          font-size: 16px;
+      }
+
+      .about-blank:hover {
+         background-color: rgb(6, 184, 255);
+      }
+
+      .boxing-random {
+         background-image: url('boxing\ random.jpg');
+         width: 175px;
+         height: 150px;
+         border-radius: 15px;
+         border: none;
+         background-position: center;
+         cursor: pointer;
+         margin: 20px;
+         background-size: 135px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .retro-bowl {
+         background-image: url('retro\ bowl.png');
+         width: 160px;
+         height: 150h;
+         cursor: pointer;
+         border: none;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         font-size: 21px;
+         color: white;
+         font-weight: bold;
+         border-radius: 15px;
+         margin: 20px;
+      }
+      
+      .Bitlife {
+         background-image: url('Bitlife.jpg');
+         width: 160px;
+         height: 150px;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         border: none;
+         font-size: 21px;
+         color: white; 
+         padding-top: 124px;
+         margin: 20px;
+         font-weight: bold;
+         cursor: pointer;
+      }
+
+      .drift-boss {
+         Background-image: url('drift\ boss.png');
+         width: 160px;
+         height: 150px;
+         background-position: center;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         background-size: 100px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         margin: 20px;
+         color: white;
+         font-weight: bold;
+         font-size: 21px;
+         cursor: pointer;
+         border: none;
+      }
+
+      .temple-run2 {
+         background-image: url('temple\ run2.jpg');
+         width: 160px;
+         height: 150px;
+         cursor: pointer;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         border: none;
+         padding-top: 124px;
+         margin: 20px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+
+      .ev-io {
+         background-image: url('ev-io.jpg');
+         width: 160px;
+         height: 150px;
+         border: none;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         margin: 20px;
+         font-weight: bold;
+         cursor: pointer;
+         border-radius: 15px;
+      }
+
+      
+
